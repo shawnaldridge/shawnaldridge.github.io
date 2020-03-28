@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Ominous Positivity"
+date:   2020-03-27 22:08:03 -0700
+categories: thoughts
+---
+Apparently at some point I realized that I was going to be doing this "code thing" for the foreseeable future. As such I thought I should operate on the assumption that I'm going to continue to want to get better at it as well as want to continue recording/sharing what I know. To that end, instead of always saying I'm going to start writing more blog posts and working on more open-source, I'm just going to actually, you know, do it. 
+
